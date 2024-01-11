@@ -1,4 +1,4 @@
-key="12345"
+key="888888"
 k=input("请输入密码")
 if k==key:
        print("欢迎你")
