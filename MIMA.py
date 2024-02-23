@@ -15,5 +15,5 @@ else:
     import time
     localtime = time.asctime(time.localtime(time.time()))
     print("本地时间 :", localtime)
-    print("（程序已结束运行）")
+    
 
