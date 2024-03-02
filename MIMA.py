@@ -2,7 +2,7 @@ key="12345"
 k=input("请输入密码")
 if k==key:
        print("欢迎你")
-       print("密码正确，程序已正常关机")
+       print("密码正确")
        import time
 
        localtime = time.asctime(time.localtime(time.time()))
