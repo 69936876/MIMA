@@ -1,7 +1,6 @@
 key=“888888"
 k=input("请输入密码")
 if k==key:
-       print("密码正确")
        print("欢迎你")
        import time
 
